@@ -1,2 +1,2 @@
 # CourseraMachineLearningSpecialization
-My answers to Coursera Machine Learning Specialization Assignments
+My solutions to Coursera Machine Learning Specialization Assignments
